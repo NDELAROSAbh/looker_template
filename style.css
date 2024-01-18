@@ -47,55 +47,55 @@
   
   .reportTable {
     font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
-    color: #696969;
+    color: #26292b;
     border-collapse: collapse;
     border-spacing: 3px;
     table-layout: fixed;
   }
   
   th.headerCell {
-    background-color: #1E2C5B;
+    background-color: #aa1b68;
     color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
   }
   
   .headerCell.dimension {
-    background-color: #1E2C5B;
+    background-color: #aa1b68;
     border-right: 1px solid #BDC3C7; 
     color: white;
 
   }
   
   .headerCell.pivot {
-    background-color: #1E2C5B;
+    background-color: #aa1b68;
     border-right: 1px solid #BDC3C7; 
     color: white;
 
   }
   
   .headerCell.measure {
-    background-color: #1E2C5B;
+    background-color: #aa1b68;
     border-left: 1px solid #BDC3C7; 
     color: white;
 
   }
   
   .headerCell.measure.calculation {
-    background-color: #1E2C5B;
+    background-color: #aa1b68;
     border-left: 1px solid #BDC3C7;
     color: white;
 
   }
   
   .headerCell.transposed.dimension {
-    background-color: #1E2C5B;
+    background-color: #aa1b68;
     color: white;
 
   }
   
   .headerCell.transposed.dimension.merged {
-    background-color: #1E2C5B !important;
+    background-color: #aa1b68 !important;
     color: white;
 
   }
@@ -186,7 +186,7 @@
   }
   
   .total {
-    border-top: 2px solid #696969 !important;
+    border-top: 2px solid #26292b !important;
     font-weight: bold !important;
   }
   
